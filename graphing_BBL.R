@@ -32,3 +32,5 @@ names(BBL_Sr_grass_sample_data)
 plot(assignR:::wrld_simpl)
 points(x = BBL_Sr_grass_sample_data$Latitude, y = BBL_Sr_grass_sample_data$Longitude)
 map_data(naMap, region = "southeast")
+View(BBL_isotope_data1)
+
